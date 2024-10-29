@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35323.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "navigate-pages-to-external-pdf", "navigate-pages-to-external-pdf.csproj", "{15D9257A-1F8D-4F5A-A1F4-15268BE44F71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15D9257A-1F8D-4F5A-A1F4-15268BE44F71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15D9257A-1F8D-4F5A-A1F4-15268BE44F71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15D9257A-1F8D-4F5A-A1F4-15268BE44F71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15D9257A-1F8D-4F5A-A1F4-15268BE44F71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4421D18-270C-44DE-8310-596899C1C720}
+	EndGlobalSection
+EndGlobal
